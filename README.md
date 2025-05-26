@@ -3,8 +3,8 @@
 Welcome to my data analysis projects repository! This repo contains interactive dashboards and data visualization projects showcasing my skills in Excel, Power Query, Power Pivot, and advanced formulas.
 
 ## 📁 Projects
-- [**Project 1: Interactive Excel Dashboard**](./Project_1)
-- [**Project 2: Power Query & Pivot Analysis**](./Project_2)
+- [**Project 1: Interactive Excel Dashboard**](project1)
+- [**Project 2: Power Query & Pivot Analysis**](project2)
 
 Each project demonstrates advanced techniques such as:
 - Dynamic data validation
