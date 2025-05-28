@@ -1,10 +1,18 @@
 # 📊 Project 1: Interactive Excel Dashboard
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4B7E5E?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-6BA43F?style=flat-square)
+![Conditional Formatting](https://img.shields.io/badge/Conditional%20Formatting-F9A825?style=flat-square)
+![Dynamic Visualizations](https://img.shields.io/badge/Dynamic%20Visualizations-003366?style=flat-square)
+
 ### 🎥 Demo
 Check out the demo GIF showing the dashboard's interactivity!
 
 ![alt text](../assests/dashboard_demo.gif)
+---
 
+## 🏗️ Project Overview
 This project is an interactive Excel dashboard that dynamically updates data based on user selections. Key features include:
 
 - **Dynamic Dropdowns:** Built with validation sheets ensuring interdependent dropdowns (country, title, type).
@@ -28,21 +36,47 @@ This project is an interactive Excel dashboard that dynamically updates data bas
     ```
 - **Data Validation Logic:** Ensures consistent dropdown options like "Full-time", "Part-time", excluding complex terms like "Full-time and Internship".
 
-
-
-- **Appearance:**
-In order to make the selected item show up darker than the rest of the options I created 2 tables one to display the one to display the selected option and cover the rest and one that does the opposite.
-
 ![alt text](../assests/formulas.png)
 
-## Example of chart creation:
-The following columns where selected to make the item selected appear darker than the rest
+---
+
+## 📊 Example of Chart Creation
+The following columns were selected to make the item selected appear darker than the rest:
 
 ![alt text](../assests/data_show.png)
 
+---
+
 ## 🧠 Key Skills Demonstrated
-- Advanced Excel functions and formulas
-- Data cleaning and validation
-- Pivot tables and cross-tab analysis
-- Conditional formatting and drop-down validations
-- Data visualization (charts, salary comparisons)
+- **Advanced Excel functions and formulas**
+- **Data cleaning and validation**
+- **Pivot tables and cross-tab analysis**
+- **Conditional formatting and drop-down validations**
+- **Dynamic data visualizations (charts, salary comparisons)**
+
+---
+
+## 🚀 How to Use (Optional)
+1. Open the Excel workbook (`Project_1.xlsx`).
+2. Navigate to the dashboard sheets.
+3. Select desired country, title, and type from the dropdowns.
+4. Observe how the dashboard updates dynamically.
+
+---
+
+## 🌟 Conclusion & Reflection
+This project demonstrates my ability to design **dynamic Excel dashboards** with advanced formulas and conditional formatting. By leveraging data validation, pivot tables, and interactive visuals, I created a user-friendly interface for job and salary analysis.
+
+Future improvements could include:
+- Enhancing visuals with custom charts or Power BI.
+- Adding more metrics (e.g., average salary by skill or location).
+- Expanding to include predictive modeling or trend analysis.
+
+---
+
+## 🛠️ Tools Used
+- Microsoft Excel
+- Advanced Formulas (MEDIAN, FILTER)
+- Data Validation
+- Conditional Formatting
+- Pivot Tables and Dynamic Charts
